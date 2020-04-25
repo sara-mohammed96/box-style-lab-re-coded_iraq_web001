@@ -40,7 +40,7 @@ h4 {
 .column {
   width: 30%;
   display: inline-block;
-  border: 2px solid gray; 
+  border: 1px solid gray; 
 }
 
 .small {
